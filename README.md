@@ -10,7 +10,7 @@ Further details about can be seen in:
 ## Authors
 - Americo Cunha
 
-## Citing ElectroDynamic
+## Citing
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ElectroDynamic**:
 - *A. Cunha Jr, ...*
