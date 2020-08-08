@@ -1,6 +1,6 @@
-<img src="logo/ElectroDynamic.png" width="40%">
+<img src="logo/ElectroM.png" width="40%">
 
-**ElectroDynamic - Electromechanical Dynamic Code**  is an easy to run code to simulate the nonlinear dynamics of an electromechanical system. The implementation follows an educational style, to make its use very intuitive. 
+**ElectroM - Electromechanical Dynamic Code**  is an easy to run code to simulate the nonlinear dynamics of an electromechanical system. The implementation follows an educational style, to make its use very intuitive. 
 
 This package includes the following modules:
 - main_xxx.m - 
