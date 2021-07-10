@@ -1,6 +1,6 @@
 <img src="logo/ElectroM.png" width="40%">
 
-**ElectroMech - Electromechanical Dynamic Code**  is an easy-to-run code to simulate the nonlinear dynamics of an electromechanical system. The implementation follows an educational style, to make its use very intuitive. 
+**ElectroM - Electromechanical Dynamic Code**  is an easy-to-run code to simulate the nonlinear dynamics of an electromechanical system. The implementation follows an educational style, to make its use very intuitive. 
 
 ## Software History
 
@@ -11,7 +11,7 @@ The underlying results are reported in the following paper:
 
 ## Documentation
 
-**ElectroMech** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
+**ElectroM** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
 
 
 ## Authors
@@ -40,4 +40,4 @@ We kindly ask users to cite the following reference in any publications reportin
 
 ## License
 
-**ElectroMech** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
+**ElectroM** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
