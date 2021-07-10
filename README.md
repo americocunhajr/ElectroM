@@ -21,7 +21,7 @@ The underlying results are reported in the following paper:
 - Angelo Marcelo Tusset
 - José Manoel Balthazar
 
-## Citing ElectroDynamic
+## Citing ElectroM
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ElectroMech**:
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset and J. M. Balthazar, On the reduction of nonlinear electromechanical systems, 2021*
