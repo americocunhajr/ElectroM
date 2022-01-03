@@ -14,7 +14,7 @@
 % -----------------------------------------------------------------
 %  Reference:
 %  A. Cunha Jr et al.
-%  On the modeling of nonlinear electromechanical systems, 2021
+%  On the reduction of nonlinear electromechanical systems, 2022
 % -----------------------------------------------------------------
 
 
