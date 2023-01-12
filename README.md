@@ -46,7 +46,7 @@ We kindly ask users to cite the following reference in any publications reportin
 
 ## Institutional support
 
-<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_senai.jpg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_ufma_color.jpg" width="10%"> &nbsp; &nbsp;  <img src="logo/logo_utfpr_color.png" width="20%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.jpeg" width="10%">
+<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_senai_color.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_ufma_color.jpg" width="10%"> &nbsp; &nbsp;  <img src="logo/logo_utfpr_color.png" width="20%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.jpeg" width="10%">
 
 ## Funding
 
