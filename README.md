@@ -7,7 +7,7 @@
 This code was developed to analyze the nonlinear dynamic behavior of a typical electromechanical system. Two physical-mathematical models are implemented in this package: (i) a full-order model which considers the mutual interaction between electrical and mechanical sub-systems, so that ODE's system is coupled; (ii) a reduced-order model which only considers the influence of the mechanical sub-systems into the electrical one, so that ODE's system is decoupled.
 
 The underlying results are reported in the following paper:
-- *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 2022*
+- *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022* https://doi.org/10.1007/s11012-022-01542-4
 
 ## Documentation
 
@@ -27,7 +27,7 @@ We kindly ask users to cite the following reference in any publications reportin
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022* https://doi.org/10.1007/s11012-022-01542-4
 
 ```
-@article{cunhajr2022,
+@article{cunhajr2022p2679,
    author  = {A. Cunha Jr and M. Pereira and R. Avanço and A. M. Tusset and J. M. Balthazar},
    title   = {On the reduction of nonlinear electromechanical systems},
    journal = {Meccanica},
