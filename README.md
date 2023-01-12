@@ -24,7 +24,7 @@ The underlying results are reported in the following paper:
 ## Citing ElectroM
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ElectroM**:
-- *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 2022*
+- *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022* https://doi.org/10.1007/s11012-022-01542-4
 
 ```
 @article{cunhajr2022,
@@ -32,8 +32,8 @@ We kindly ask users to cite the following reference in any publications reportin
    title   = {On the reduction of nonlinear electromechanical systems},
    journal = {Meccanica},
    year    = {2022},
-   volume  = {in press},
-   pages   = {~},
+   volume  = {57},
+   pages   = {2679-2697},
    doi     = {https://doi.org/10.1007/s11012-022-01542-4},
 }
 ```
