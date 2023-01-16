@@ -13,6 +13,10 @@ The underlying results are reported in the following paper:
 
 **ElectroM** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
 
+## Reproducibility
+
+Simulations done with **ElectroM** are fully reproducible, as can be seen on this <a href="[https://codeocean.com/capsule/2674283/tree](https://codeocean.com/capsule/5018717/tree" target="_blank">CodeOcean capsule</a>
+
 
 ## Authors
 - Americo Cunha Jr
