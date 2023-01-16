@@ -34,7 +34,7 @@ We kindly ask users to cite the following reference in any publications reportin
    year    = {2022},
    volume  = {57},
    pages   = {2679-2697},
-   doi     = {https://doi.org/10.1007/s11012-022-01542-4},
+   doi     = {10.1007/s11012-022-01542-4},
 }
 ```
 
