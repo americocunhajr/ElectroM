@@ -15,7 +15,7 @@ The underlying results are reported in the following paper:
 
 ## Reproducibility
 
-Simulations done with **ElectroM** are fully reproducible, as can be seen on this <a href="[https://codeocean.com/capsule/2674283/tree](https://codeocean.com/capsule/5018717/tree" target="_blank">CodeOcean capsule</a>
+Simulations done with **ElectroM** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/5018717/tree" target="_blank">CodeOcean capsule</a>
 
 
 ## Authors
