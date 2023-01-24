@@ -1,6 +1,6 @@
 <img src="logo/ElectroM.png" width="40%">
 
-**ElectroM - ElectroMechanical Dynamic Code**  is an easy-to-run code to simulate the nonlinear dynamics of an electromechanical system. The implementation follows an educational style, to make its use very intuitive. 
+**ElectroM: Electromechanical Dynamics Code**  is an easy-to-run code to simulate the nonlinear dynamics of an electromechanical system. The implementation follows an educational style, to make its use very intuitive. 
 
 ## Software History
 
