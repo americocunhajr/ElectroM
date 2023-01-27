@@ -1,6 +1,6 @@
 <img src="logo/ElectroM.png" width="40%">
 
-**ElectroM: Electromechanical Dynamic Code**  is an easy-to-run code to simulate the nonlinear dynamics of an electromechanical system. This code was developed to analyze the nonlinear dynamic behavior of a typical electromechanical system. Two physical-mathematical models are implemented in this package: (i) a full-order model which considers the mutual interaction between electrical and mechanical sub-systems, so that ODE's system is coupled; (ii) a reduced-order model which only considers the influence of the mechanical sub-systems into the electrical one, so that ODE's system is decoupled. The implementation follows an educational style, to make its use very intuitive. 
+**ElectroM: Electromechanical Dynamic Code**  is an easy-to-run code to simulate the nonlinear dynamics of typical electromechanical system. Two physical-mathematical models are implemented in this package: (i) a full-order model which considers the mutual interaction between electrical and mechanical sub-systems, so that ODE's system is coupled; (ii) a reduced-order model which only considers the influence of the mechanical sub-systems into the electrical one, so that ODE's system is decoupled. The implementation follows an educational style, to make its use very intuitive. 
 
 ## Software History
 
