@@ -4,8 +4,11 @@
 
 ## Software History
 
-The code was used to the results reported in the following papers:
+The code was used to the results reported in the following works:
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022 https://doi.org/10.1007/s11012-022-01542-4*
+- *R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar, A Tutorial on the Simplification of Electromechanical Dynamic Models, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022 https://doi.org/10.1007/978-3-030-96603-4_1*
+
+Preprint at HAL: https://hal.archives-ouvertes.fr/hal-03648813
 
 ## Documentation
 
@@ -27,6 +30,7 @@ Simulations done with **ElectroM** are fully reproducible, as can be seen on thi
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ElectroM**:
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022 https://doi.org/10.1007/s11012-022-01542-4*
+- *R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar, A Tutorial on the Simplification of Electromechanical Dynamic Models, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022 https://doi.org/10.1007/978-3-030-96603-4_1*
 
 ```
 @article{CunhaJr2022p2679,
