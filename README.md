@@ -45,6 +45,20 @@ We kindly ask users to cite the following reference in any publications reportin
 ```
 
 ```
+@Inbook{Avanço2022bookchap,
+author    = {Avan{\c{c}}o, Rafael Henrique and Zanella, Danilo Antonio and Cunha, Americo and Tusset, Angelo Marcelo and Balthazar, Jose Manoel},
+editor    = {Balthazar, Jose Manoel},
+title     = "{A Tutorial on the Simplification of Electromechanical Dynamic Models}",
+bookTitle = {Nonlinear Vibrations Excited by Limited Power Sources},
+year      = {2022},
+publisher = {Springer International Publishing},
+address   = {Cham},
+pages.    = {3--14},
+doi       = {10.1007/978-3-030-96603-4_1},
+}
+```
+
+```
 @article{CunhaJr2023ElectroM,
    author  = {A. Cunha Jr and M. Pereira and R. Avanço and A. M. Tusset and J. M. Balthazar},
    title   = "{ElectroM: Electromechanical Dynamic Code}",
