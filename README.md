@@ -16,7 +16,7 @@ Preprint at HAL: https://hal.archives-ouvertes.fr/hal-03648813
 
 ## Reproducibility
 
-Simulations done with **ElectroM** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/5018717/tree" target="_blank">CodeOcean capsule</a>
+Simulations done with **ElectroM** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2532343/tree/v1" target="_blank">CodeOcean capsule</a>
 
 
 ## Authors
