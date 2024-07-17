@@ -1,20 +1,31 @@
-<img src="logo/ElectroM.png" width="40%">
+## Electromechanical Dynamic Code
 
-**ElectroM: Electromechanical Dynamic Code**  is a Matlab code to simulate the nonlinear dynamics of typical electromechanical system. Two physical-mathematical models are implemented in this package: (i) a full-order model which considers the mutual interaction between electrical and mechanical sub-systems, so that ODE's system is coupled; (ii) a reduced-order model which only considers the influence of the mechanical sub-systems into the electrical one, so that ODE's system is decoupled. The implementation follows an educational style, to make its use very intuitive. 
+**ElectroM: Electromechanical Dynamic Code** is a Matlab code designed to simulate the nonlinear dynamics of typical electromechanical systems. This package includes two physical-mathematical models:
+- **Full-order model:** Considers the mutual interaction between electrical and mechanical sub-systems, resulting in a coupled system of ODEs.
+- **Reduced-order model:** Considers only the influence of the mechanical sub-systems on the electrical one, resulting in a decoupled system of ODEs.
 
-### Software History
+## Table of Contents
+- [Overview](#overview)
+- [Documentation](#documentation)
+- [Reproducibility](#reproducibility)
+- [Authors](#authors)
+- [Citing ElectroM](#citing-electrom)
+- [License](#license)
+- [Institutional support](#institutional-support)
+- [Funding](#funding)
 
-The code was used to the results reported in the following works:
-- *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022 https://doi.org/10.1007/s11012-022-01542-4*
-- *R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar, A Tutorial on the Simplification of Electromechanical Dynamic Models, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022 https://doi.org/10.1007/978-3-030-96603-4_1*
+### Overview
+**ElectroM** was used to generate the results reported in the following works:
+- **A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar**, *On the modeling of nonlinear electromechanical systems*, Meccanica, 57:2679-2697, 2022. <a href="https://doi.org/10.1007/s11012-022-01542-4" target="_blank">DOI</a>
+- **R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar**, *A Tutorial on the Simplification of Electromechanical Dynamic Models*, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022. <a href="https://doi.org/10.1007/978-3-030-96603-4_1" target="_blank">DOI</a> 
 
-Preprint at HAL: https://hal.archives-ouvertes.fr/hal-03648813
+Preprint available <a href="https://hal.archives-ouvertes.fr/hal-03648813" target="_blank">here</a>. 
 
 ### Documentation
-**ElectroM** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
+**ElectroM** routines are thoroughly commented to explain their functionality to the user. Each routine includes a short description of its purpose and a list of inputs and outputs.
 
 ### Reproducibility
-Simulations done with **ElectroM** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2532343/tree/v1" target="_blank">CodeOcean capsule</a>
+Simulations done with **ElectroM** are fully reproducible. You can access a reproducible capsule of the simulations on <a href="https://codeocean.com/capsule/2532343/tree/v1" target="_blank">CodeOcean</a>.
 
 ### Authors
 - Americo Cunha Jr
@@ -24,10 +35,21 @@ Simulations done with **ElectroM** are fully reproducible, as can be seen on thi
 - José Manoel Balthazar
 
 ### Citing ElectroM
-
-We kindly ask users to cite the following reference in any publications reporting work done with **ElectroM**:
+If you use **ElectroM** in your research, please cite the following publications:
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022 https://doi.org/10.1007/s11012-022-01542-4*
 - *R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar, A Tutorial on the Simplification of Electromechanical Dynamic Models, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022 https://doi.org/10.1007/978-3-030-96603-4_1*
+
+```
+@article{CunhaJr2023ElectroM,
+   author  = {A. Cunha Jr and M. Pereira and R. Avanço and A. M. Tusset and J. M. Balthazar},
+   title   = "{ElectroM: Electromechanical Dynamic Code}",
+   journal = {Software Impacts},
+   year    = {2023},
+   volume  = {17},
+   pages   = {100533},
+   doi     = {10.1016/j.simpa.2023.100533},
+}
+```
 
 ```
 @article{CunhaJr2022p2679,
@@ -55,20 +77,7 @@ doi       = {10.1007/978-3-030-96603-4_1},
 }
 ```
 
-```
-@article{CunhaJr2023ElectroM,
-   author  = {A. Cunha Jr and M. Pereira and R. Avanço and A. M. Tusset and J. M. Balthazar},
-   title   = "{ElectroM: Electromechanical Dynamic Code}",
-   journal = {Software Impacts},
-   year    = {2023},
-   volume  = {17},
-   pages   = {100533},
-   doi     = {10.1016/j.simpa.2023.100533},
-}
-```
-
 ### License
-
 **ElectroM** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="10%"> 
