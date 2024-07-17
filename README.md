@@ -21,6 +21,33 @@
 
 Preprint available <a href="https://hal.archives-ouvertes.fr/hal-03648813" target="_blank">here</a>. 
 
+### Usage
+To started with **ElectroM**, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/americocunhajr/ElectroM.git
+   ```
+2. Navigate to the code directory:
+   ```bash
+   cd ElectroM/ElectroM-1.0
+   ```
+3. To simulate both dynamical systems, execute:
+   ```bash
+   main_ElectroM_ivp
+   ```
+4. To perform Fourier analysis, execute:
+   ```bash
+   main_ElectroM_fourier
+   ```
+5. To compute dimensionless parameters value, execute:
+   ```bash
+   main_ElectroM_dimensionless
+   ```
+6. To compute dimensionless groups, execute:
+   ```bash
+   main_ElectroM_pi_groups
+   ```
+
 ### Documentation
 **ElectroM** routines are thoroughly commented to explain their functionality to the user. Each routine includes a short description of its purpose and a list of inputs and outputs.
 
