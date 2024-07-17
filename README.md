@@ -24,7 +24,7 @@
 
 Preprint available <a href="https://hal.archives-ouvertes.fr/hal-03648813" target="_blank">here</a>. 
 
-### Feature
+### Features
 - Simulates nonlinear dynamics of electromechanical systems
 - Includes full-order and reduced-order models
 - Considers mutual interaction between electrical and mechanical sub-systems in the full-order model
