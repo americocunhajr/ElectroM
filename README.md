@@ -1,8 +1,8 @@
 <img src="logo/ElectroM.png" width="40%">
 
-**ElectroM: Electromechanical Dynamic Code**  is an easy-to-run code to simulate the nonlinear dynamics of typical electromechanical system. Two physical-mathematical models are implemented in this package: (i) a full-order model which considers the mutual interaction between electrical and mechanical sub-systems, so that ODE's system is coupled; (ii) a reduced-order model which only considers the influence of the mechanical sub-systems into the electrical one, so that ODE's system is decoupled. The implementation follows an educational style, to make its use very intuitive. 
+**ElectroM: Electromechanical Dynamic Code**  is a Matlab code to simulate the nonlinear dynamics of typical electromechanical system. Two physical-mathematical models are implemented in this package: (i) a full-order model which considers the mutual interaction between electrical and mechanical sub-systems, so that ODE's system is coupled; (ii) a reduced-order model which only considers the influence of the mechanical sub-systems into the electrical one, so that ODE's system is decoupled. The implementation follows an educational style, to make its use very intuitive. 
 
-## Software History
+### Software History
 
 The code was used to the results reported in the following works:
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022 https://doi.org/10.1007/s11012-022-01542-4*
@@ -10,23 +10,20 @@ The code was used to the results reported in the following works:
 
 Preprint at HAL: https://hal.archives-ouvertes.fr/hal-03648813
 
-## Documentation
-
+### Documentation
 **ElectroM** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
 
-## Reproducibility
-
+### Reproducibility
 Simulations done with **ElectroM** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2532343/tree/v1" target="_blank">CodeOcean capsule</a>
 
-
-## Authors
+### Authors
 - Americo Cunha Jr
 - Marcelo Pereira
 - Rafael Avanço
 - Angelo Marcelo Tusset
 - José Manoel Balthazar
 
-## Citing ElectroM
+### Citing ElectroM
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ElectroM**:
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022 https://doi.org/10.1007/s11012-022-01542-4*
@@ -62,24 +59,24 @@ doi       = {10.1007/978-3-030-96603-4_1},
 @article{CunhaJr2023ElectroM,
    author  = {A. Cunha Jr and M. Pereira and R. Avanço and A. M. Tusset and J. M. Balthazar},
    title   = "{ElectroM: Electromechanical Dynamic Code}",
-   journal = {},
+   journal = {Software Impacts},
    year    = {2023},
-   volume  = {~},
-   pages   = {~},
-   doi     = {~},
+   volume  = {17},
+   pages   = {100533},
+   doi     = {10.1016/j.simpa.2023.100533},
 }
 ```
 
-## License
+### License
 
 **ElectroM** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="10%"> 
 
-## Institutional support
+### Institutional support
 
 <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_senai_color.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_ufma_color.jpg" width="10%"> &nbsp; &nbsp;  <img src="logo/logo_utfpr_color.png" width="20%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.png" width="25%">
 
-## Funding
+### Funding
 
 <img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
