@@ -6,6 +6,7 @@
 
 ### Table of Contents
 - [Overview](#overview)
+- [Usage](#usage)
 - [Documentation](#documentation)
 - [Reproducibility](#reproducibility)
 - [Authors](#authors)
@@ -16,6 +17,7 @@
 
 ### Overview
 **ElectroM** was used to generate the results reported in the following works:
+- **A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar**, *ElectroM: ElectroMechanical dynamic code*, Software Impacts, 17:100533, 2023. <a href="https://doi.org/10.1016/j.simpa.2023.100533" target="_blank">DOI</a>
 - **A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar**, *On the modeling of nonlinear electromechanical systems*, Meccanica, 57:2679-2697, 2022. <a href="https://doi.org/10.1007/s11012-022-01542-4" target="_blank">DOI</a>
 - **R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar**, *A Tutorial on the Simplification of Electromechanical Dynamic Models*, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022. <a href="https://doi.org/10.1007/978-3-030-96603-4_1" target="_blank">DOI</a> 
 
@@ -63,6 +65,7 @@ Simulations done with **ElectroM** are fully reproducible. You can access a repr
 
 ### Citing ElectroM
 If you use **ElectroM** in your research, please cite the following publications:
+- *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, ElectroM: ElectroMechanical dynamic code, Software Impacts, 17:100533, 2023 https://doi.org/10.1016/j.simpa.2023.100533*
 - *A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, and J. M. Balthazar, On the modeling of nonlinear electromechanical systems, Meccanica, 57:2679-2697, 2022 https://doi.org/10.1007/s11012-022-01542-4*
 - *R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar, A Tutorial on the Simplification of Electromechanical Dynamic Models, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022 https://doi.org/10.1007/978-3-030-96603-4_1*
 
