@@ -4,7 +4,7 @@
 - **Full-order model:** Considers the mutual interaction between electrical and mechanical sub-systems, resulting in a coupled system of ODEs.
 - **Reduced-order model:** Considers only the influence of the mechanical sub-systems on the electrical one, resulting in a decoupled system of ODEs.
 
-## Table of Contents
+### Table of Contents
 - [Overview](#overview)
 - [Documentation](#documentation)
 - [Reproducibility](#reproducibility)
