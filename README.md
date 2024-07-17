@@ -6,6 +6,7 @@
 
 ### Table of Contents
 - [Overview](#overview)
+- [Features](#features)
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Reproducibility](#reproducibility)
@@ -22,6 +23,15 @@
 - **R. H. Avanço, D. A. Zanella, A. Cunha Jr, A. M. Tusset, J. M. Balthazar**, *A Tutorial on the Simplification of Electromechanical Dynamic Models*, In: Balthazar, JM (eds), Nonlinear Vibrations Excited by Limited Power Sources. Mechanisms and Machine Science, vol 116. Springer, Cham, 2022. <a href="https://doi.org/10.1007/978-3-030-96603-4_1" target="_blank">DOI</a> 
 
 Preprint available <a href="https://hal.archives-ouvertes.fr/hal-03648813" target="_blank">here</a>. 
+
+### Feature
+- Simulates nonlinear dynamics of electromechanical systems
+- Includes full-order and reduced-order models
+- Considers mutual interaction between electrical and mechanical sub-systems in the full-order model
+- Decouples electrical and mechanical sub-systems in the reduced-order model
+- Calculates dimensionless groups for electromechanical systems
+- Provides easy-to-understand, well-commented code
+- Offers educational style code implementation for intuitive use
 
 ### Usage
 To started with **ElectroM**, follow these steps:
