@@ -4,6 +4,10 @@
 - **Full-order model:** Considers the mutual interaction between electrical and mechanical sub-systems, resulting in a coupled system of ODEs.
 - **Reduced-order model:** Considers only the influence of the mechanical sub-systems on the electrical one, resulting in a decoupled system of ODEs.
 
+<p align="center">
+<img src="logo/CartMotorCircuit.png" width="60%">
+</p>
+
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
