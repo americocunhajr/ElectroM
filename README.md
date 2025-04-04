@@ -128,8 +128,8 @@ doi       = {10.1007/978-3-030-96603-4_1},
 
 ### Institutional support
 
-<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_senai_color.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_ufma_color.jpg" width="10%"> &nbsp; &nbsp;  <img src="logo/logo_utfpr_color.png" width="20%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.png" width="25%">
+<img src="logo/logo_uerj.png" width="13%"> &nbsp; &nbsp; <img src="logo/logo_senai_color.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_ufma_color.jpg" width="10%"> &nbsp; &nbsp;  <img src="logo/logo_utfpr_color.png" width="20%"> &nbsp; &nbsp; <img src="logo/logo_unesp_color.png" width="25%">
 
 ### Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
